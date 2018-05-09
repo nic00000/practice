@@ -1,1 +1,1 @@
-console.log("hogehoge")
+console.log("hogefuga")
