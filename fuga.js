@@ -1,1 +1,1 @@
-console.log("fugafuga")
+console.log("fuga")
